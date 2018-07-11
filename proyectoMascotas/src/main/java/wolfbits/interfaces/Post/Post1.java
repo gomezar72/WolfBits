@@ -1,5 +1,5 @@
 
-package Post;
+package wolfbits.interfaces.Post;
 
 import java.awt.Image;
 import java.awt.Toolkit;
